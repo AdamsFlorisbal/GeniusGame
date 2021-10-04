@@ -44,7 +44,7 @@ body {
 }
 
 .selected {
-    opacity: 0.8;
+    opacity: 0.1;
 }
 .headItens {
     background-color: rgb(51, 51, 51);
